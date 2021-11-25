@@ -22,6 +22,7 @@ Why Slingshot?
 
 [![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U)
 
+# Add circleci config.yml
 # Get Started
 
 1. **Initial Machine Setup**
